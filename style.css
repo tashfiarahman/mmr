@@ -1,0 +1,15 @@
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 35pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Banner text */
+    .banner-text {
+    position: absolute;
+    top:30%;
+    right: 10%;
+  }
+  
