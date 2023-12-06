@@ -3,18 +3,29 @@
   text-align: center;
   color: #b01640;
   font-size: 4vw;
+  font-weight: bold;
   font-family: 'Quicksand', sans-serif;
 }
 
 /* Banner text */
 .banner-text {
   position: absolute;
-  top:30%;
+  top: 40%;
   right: 10%;
 }
 
 .content {
+  margin-top: 5%;
   margin-left: 20%;
   margin-right: 20%;
   font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  color: #b01640;
+  font-weight: bold;
+}
+
+p {
+  color: #141414;
 }
