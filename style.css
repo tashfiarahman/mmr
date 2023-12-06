@@ -1,3 +1,8 @@
+
+body {
+  margin: 0px;
+}
+
 .banner {
   position: relative;
   text-align: center;
@@ -14,6 +19,21 @@
   right: 10%;
 }
 
+.ending {
+  position: relative;
+  text-align: center;
+  color: #b01640;
+  font-size: 4vw;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.ending-text {
+  position: absolute;
+  margin-top: 10%;
+  left: 10%;
+}
+
 .content {
   margin-top: 5%;
   margin-left: 20%;
@@ -28,4 +48,5 @@ h1 {
 
 p {
   color: #141414;
+  font-size: 14pt;
 }
