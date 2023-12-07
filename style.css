@@ -52,3 +52,31 @@ p {
   color: #141414;
   font-size: 14pt;
 }
+
+a:link {
+  color: #b01640;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #b01640;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #b01640;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #b01640;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+ul {
+  color: #b01640;
+}
