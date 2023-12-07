@@ -23,13 +23,15 @@ body {
   position: relative;
   text-align: center;
   color: #b01640;
-  font-size: 4vw;
+  margin-top: 3em;
+  font-size: 3vw;
   font-weight: bold;
   font-family: 'Quicksand', sans-serif;
 }
 
 .ending-text {
   position: absolute;
+  margin-right: 60%;
   margin-top: 10%;
   left: 10%;
 }
